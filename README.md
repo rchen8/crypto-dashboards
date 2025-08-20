@@ -41,7 +41,7 @@
 - https://www.gasfees.io
 
 ### Hyperliquid
-- https://hyperliquid.allium.so
+- https://www.flowscan.xyz/builders
 
 ### L2
 - https://l2fees.info
