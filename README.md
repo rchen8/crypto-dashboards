@@ -75,6 +75,9 @@
 - https://coinmarketcap.com
 - https://coinpaprika.com
 
+### RWA
+- https://app.rwa.xyz
+
 ### Security
 - https://defillama.com/hacks
 - https://diligence.consensys.io/local-metrics-tool
@@ -82,6 +85,7 @@
 - https://www.rekt.news/leaderboard
 
 ### Stablecoin
+- https://app.rwa.xyz/stablecoins
 - https://defillama.com/stablecoins
 - https://usdc.cool
 - https://www.stablepulse.org
