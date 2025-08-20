@@ -17,6 +17,9 @@
 ### DeFi
 - https://defillama.com
 
+### DePIN
+- https://depinpulse.app
+
 ### Developer
 - https://www.4byte.directory
 - https://www.developerreport.com
