@@ -72,6 +72,7 @@
 
 ### Prediction Market
 - https://polymarketanalytics.com
+- https://predictionindex.xyz
 
 ### Price
 - https://coingecko.com
