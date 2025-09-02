@@ -11,6 +11,9 @@
 - https://www.blockchain.com/en/charts
 - https://www.crypto51.app
 
+### Bridge
+- https://www.bridgewtf.com
+
 ### DAT
 - https://blockworks.co/analytics/treasury-companies
 
