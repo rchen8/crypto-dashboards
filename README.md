@@ -74,6 +74,7 @@
 - https://www.nftpulse.org
 
 ### Prediction Market
+- https://greed.bot
 - https://polymarketanalytics.com
 - https://predictionindex.xyz
 
