@@ -96,6 +96,7 @@
 - https://app.rwa.xyz/stablecoins
 - https://defillama.com/stablecoins
 - https://usdc.cool
+- https://www.stablecoinrates.xyz
 - https://www.stablepulse.org
 
 ### Token Unlock
