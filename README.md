@@ -18,6 +18,7 @@
 - https://blockworks.co/analytics/treasury-companies
 
 ### DeFi
+- https://app.vaults.fyi
 - https://defillama.com
 
 ### DePIN
