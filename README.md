@@ -15,7 +15,7 @@
 - https://www.bridgewtf.com
 
 ### DAT
-- https://blockworks.co/analytics/treasury-companies
+- https://datboard.panteraresearchlab.xyz
 
 ### DeFi
 - https://app.vaults.fyi
