@@ -74,6 +74,9 @@
 - https://nftpricefloor.com
 - https://www.nftpulse.org
 
+### Payment
+- https://www.paymentscan.xyz
+
 ### Prediction Market
 - https://greed.bot
 - https://polymarketanalytics.com
