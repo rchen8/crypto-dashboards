@@ -82,6 +82,7 @@
 - https://greed.bot
 - https://polymarketanalytics.com
 - https://predictionindex.xyz
+- https://predictions.paradigm.xyz
 
 ### Price
 - https://coingecko.com
