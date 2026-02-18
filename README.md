@@ -65,10 +65,8 @@
 - https://mevboost.pics
 - https://nerolation.github.io/mevflow.html
 - https://orderflow.art
-- https://www.inclusion.watch
 - https://www.mevwatch.info
 - https://www.relayscan.io
-- https://www.zeromev.org
 
 ### NFT
 - https://cryptoslam.io
