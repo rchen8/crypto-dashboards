@@ -56,9 +56,7 @@
 - https://www.l2beat.com
 
 ### MakerDAO
-- https://dai.stablecoin.science
 - https://defiexplore.com
-- https://makerburn.com
 
 ### MEV
 - https://eigenphi.io
@@ -100,6 +98,7 @@
 - https://app.rwa.xyz/stablecoins
 - https://defillama.com/stablecoins
 - https://usdc.cool
+- https://www.roinevirta.com/euro
 - https://www.stablecoinrates.xyz
 - https://www.stablepulse.org
 
