@@ -79,6 +79,7 @@
 - https://polymarketanalytics.com
 - https://predictionindex.xyz
 - https://predictions.paradigm.xyz
+- https://predictparity.com
 
 ### Price
 - https://coingecko.com
