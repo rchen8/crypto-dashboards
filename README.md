@@ -28,10 +28,6 @@
 - https://www.4byte.directory
 - https://www.developerreport.com
 
-### ETF
-- https://dune.com/hildobby/btc-etfs
-- https://dune.com/hildobby/eth-etfs
-
 ### Ethereum
 - https://clientdiversity.org
 - https://cryptofees.info
