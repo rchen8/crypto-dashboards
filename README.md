@@ -84,6 +84,7 @@
 
 ### RWA
 - https://app.rwa.xyz
+- https://hoodfi.io/rwa
 
 ### Security
 - https://defillama.com/hacks
