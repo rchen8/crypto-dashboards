@@ -59,6 +59,7 @@
 - https://mevboost.pics
 - https://nerolation.github.io/mevflow.html
 - https://orderflow.art
+- https://pbs.show
 - https://www.mevwatch.info
 - https://www.relayscan.io
 
